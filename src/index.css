@@ -1,3 +1,18 @@
-.nt {
-  color: blue;
+
+
+.container {
+  padding-top: 10px;
+  padding-left: 40px; 
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 50vh;
+  
 }
+
+.title {
+  color: rgb(189, 74, 22);
+  font-size: 25px;
+  
+}
+

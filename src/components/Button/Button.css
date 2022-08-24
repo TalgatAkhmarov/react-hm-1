@@ -1,0 +1,18 @@
+.button{
+    color: red;
+    border-radius: 3px;
+    background-color: #97ca20;
+    padding: 4px 20px;
+    border: 1px solid black;
+    height: 7%;
+    width: 10%;
+}
+.button:hover{
+    background-color: cadetblue;
+    color: aliceblue;
+}
+
+.small{
+   padding: 4px 6px;
+}
+
